@@ -23,4 +23,3 @@ subject   hairColor
 3         1
 4         3
 ...
-
